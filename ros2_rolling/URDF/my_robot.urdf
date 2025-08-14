@@ -7,5 +7,5 @@
             </geometry>
             <origin xyz="0 0 0" rpy="0 0 0" />
         </visual>
-    </line>
+    </link>
 </robot>
